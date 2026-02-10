@@ -7,7 +7,7 @@ export function Footer() {
                 <div className="flex items-center space-x-3">
                     {/* <Shield className="w-6 h-6 text-[#00e5c7]" /> */}
                     <span className="text-lg font-bold text-white tracking-tight">
-                        TechIntel<span className="text-[#00e5c7]">360</span>
+                        Tech-Intel<span className="text-[#00e5c7] ml-2">360</span>
                     </span>
                 </div>
 
