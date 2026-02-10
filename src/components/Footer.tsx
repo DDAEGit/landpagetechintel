@@ -7,7 +7,7 @@ export function Footer() {
                 <div className="flex items-center space-x-3">
                     {/* <Shield className="w-6 h-6 text-[#00e5c7]" /> */}
                     <span className="text-lg font-bold text-white tracking-tight">
-                        Tech<span className="text-[#00e5c7]">Intel</span>
+                        TechIntel<span className="text-[#00e5c7]">360</span>
                     </span>
                 </div>
 
@@ -26,7 +26,7 @@ export function Footer() {
                     </a> */}
                 </div>
 
-                <div className="text-xs text-[#8b949e] font-mono">© 2026 Tech-Intel. Todos os direitos reservados.</div>
+                <div className="text-xs text-[#8b949e] font-mono">© 2026 Tech-Intel 360. Todos os direitos reservados.</div>
             </div>
         </footer>
     );

@@ -173,11 +173,12 @@ export function HeroMap() {
                         className="text-center"
                     >
                         <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white mb-4 drop-shadow-lg">
-                            Monitor. Cross.{" "}
-                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00e5c7] to-[#0ea5e9]">Travel Safe.</span>
+                            Tech-Intel{" "}
+                            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00e5c7] to-[#0ea5e9]">360</span>
                         </h1>
                         <p className="text-lg md:text-xl text-[#8b949e] font-mono max-w-2xl mx-auto px-4">
-                            Real-time border crossing intelligence at your fingertips
+                            Solução integrada para fortalecer o monitoramento das fronteiras nacionais e apoiar os Órgãos de Defesa e
+                            Segurança
                         </p>
                     </motion.div>
                 </div>

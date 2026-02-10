@@ -6,66 +6,67 @@ interface TickerItem {
     wait: string;
     status: "open" | "busy" | "closed";
 }
+
 const tickerData: TickerItem[] = [
     {
         id: "1",
-        name: "San Ysidro",
-        wait: "45 min",
-        status: "busy",
-    },
-    {
-        id: "2",
-        name: "Peace Bridge",
-        wait: "10 min",
+        name: "Yema",
+        wait: "0 pts.",
         status: "open",
     },
     {
-        id: "3",
-        name: "Ambassador Bridge",
-        wait: "25 min",
+        id: "2",
+        name: "Nóqui",
+        wait: "1 pts.",
         status: "busy",
     },
     {
+        id: "3",
+        name: "Luvo",
+        wait: "5 pts.",
+        status: "closed",
+    },
+    {
         id: "4",
-        name: "Laredo World Trade",
-        wait: "5 min",
+        name: "Tchicolondo",
+        wait: "0 pts.",
         status: "open",
     },
     {
         id: "5",
-        name: "El Paso BOTA",
-        wait: "60 min",
-        status: "busy",
+        name: "Furi",
+        wait: "3 pts.",
+        status: "closed",
     },
     {
         id: "6",
-        name: "Detroit-Windsor Tunnel",
-        wait: "15 min",
-        status: "open",
-    },
-    {
-        id: "7",
-        name: "Niagara Falls Rainbow",
-        wait: "20 min",
-        status: "open",
-    },
-    {
-        id: "8",
-        name: "Blaine Pacific Hwy",
-        wait: "35 min",
+        name: "Marco 25",
+        wait: "1 pts.",
         status: "busy",
     },
     {
+        id: "7",
+        name: "Tambué",
+        wait: "2 pts.",
+        status: "closed",
+    },
+    {
+        id: "8",
+        name: "Marco 27",
+        wait: "0 pts.",
+        status: "open",
+    },
+    {
         id: "9",
-        name: "Champlain-St. Bernard",
-        wait: "5 min",
+        name: "Itanda",
+        wait: "0 pts.",
         status: "open",
     },
     {
         id: "10",
-        name: "Nogales-Mariposa",
-        wait: "120 min",
-        status: "closed",
+        name: "Chissanda",
+        wait: "0 pts.",
+        status: "open",
     },
 ];
 
