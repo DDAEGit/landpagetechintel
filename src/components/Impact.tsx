@@ -72,9 +72,9 @@ export function Impact() {
                     {/* Stats Content */}
                     <div className="w-full lg:w-1/2">
                         <h2 className="text-[#101072] font-bold text-sm tracking-widest uppercase mb-4">Impacto</h2>
-                        <h3 className="text-4xl font-title font-bold text-stone-900 mb-6">Inteligência baseada em satélite</h3>
+                        <h3 className="text-4xl font-title font-bold text-stone-900 mb-6">Inteligência Baseada em Satélite</h3>
                         <p className="text-lg text-stone-600 mb-10">
-                            4.837km de fronteiras mais seguras com inteligência geoespacial e visão do espaço.
+                            4.837 km de fronteiras mais seguras com inteligência geoespacial e visão do espaço.
                         </p>
 
                         <div className="grid grid-cols-2 gap-6">
@@ -85,8 +85,8 @@ export function Impact() {
                                     suffix: "+",
                                 },
                                 {
-                                    label: "Extensão de Fronteira monitorada",
-                                    value: "4.837",
+                                    label: "Extensão de Fronteiras monitoradas",
+                                    value: "4.837 ",
                                     suffix: "km",
                                 },
                                 {

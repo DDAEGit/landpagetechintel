@@ -32,11 +32,7 @@ export function Mission() {
                             />
                         </div>
                         <div className="absolute -bottom-10 -right-10 w-2/3 aspect-square rounded-2xl overflow-hidden shadow-xl border-8 border-stone-50 hidden md:block">
-                            <img
-                                src="https://gedae.ggpen.gov.ao/ferramenta-de-visualizacao/otchiva/images/dji_fly_20251031_151542_0023_1761945861463_photo.jpg"
-                                alt="Mangrove roots detail"
-                                className="w-full h-full object-cover"
-                            />
+                            <img src="/img5.jpeg" alt="Mangrove roots detail" className="w-full h-full object-cover" />
                         </div>
                         {/* Decorative element */}
                         <div className="absolute -top-4 -left-4 w-24 h-24 bg-[#c4703d]/10 rounded-full -z-10" />
@@ -62,10 +58,10 @@ export function Mission() {
                     >
                         {/* <h2 className="text-[#1a4d2e] font-bold text-sm tracking-widest uppercase mb-4">About Us</h2> */}
                         <h3 className="text-4xl md:text-5xl font-serif font-bold text-stone-900 mb-6 leading-tight">
-                            Segurança fronteiriça<span className="text-[#000047] hidden">Campo</span>:
+                            Segurança Fronteiriça<span className="text-[#000047] hidden">Campo</span>:
                         </h3>
                         <p className="text-lg text-stone-600 mb-4 leading-relaxed">
-                            Reforce a segurança das fronteiras nacionais com inteligência de satélite — identifique atividades ilegais,
+                            Reforça a segurança das fronteiras nacionais com inteligência de satélite — identifica actividades ilegais,
                             passagens clandestinas e alterações no terreno em tempo quase real, garantindo vigilância contínua, resposta
                             rápida e controlo territorial eficaz.
                         </p>

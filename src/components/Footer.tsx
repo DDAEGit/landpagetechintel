@@ -19,12 +19,12 @@ export function Footer() {
                             </div>
 
                             <span className="font-title font-bold text-xl tracking-tight">
-                                Tech-intel <span className="text-[#3d9ec4]">360</span>
+                                Tech-Intel <span className="text-[#3d9ec4]">360</span>
                             </span>
                         </div>
                         <p className="text-stone-400 max-w-md mb-8 leading-relaxed">
-                            A national initiative combining satellite technology and community action to preserve Angola's vital coastal
-                            ecosystems for future generations.
+                            Iniciativa nacional, combinando tecnologia de satélite, inteligência artificial e dados operacionais, garante
+                            fronteiras mais seguras e a integridade do território nacional
                         </p>
                         <div className="flex gap-4">
                             {/* Placeholder Social Icons */}
@@ -66,7 +66,7 @@ export function Footer() {
                     </div> */}
 
                     <div>
-                        <h4 className="font-title font-bold text-lg mb-6">Contacto</h4>
+                        {/* <h4 className="font-title font-bold text-lg mb-6">Contactos</h4>
                         <ul className="space-y-4 text-stone-400">
                             <li className="flex items-center gap-3">
                                 <Mail className="w-5 h-5 text-[#3d9ec4]" />
@@ -80,7 +80,7 @@ export function Footer() {
                                 <MapPin className="w-5 h-5 text-[#3d9ec4]" />
                                 <span>Luanda, Angola</span>
                             </li>
-                        </ul>
+                        </ul> */}
                     </div>
                 </div>
 

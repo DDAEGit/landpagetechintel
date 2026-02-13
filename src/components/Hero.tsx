@@ -93,7 +93,7 @@ export function Hero() {
                         <div className="text-sm leading-tight">
                             Postos de fronteira
                             <br />
-                            georeferenciados
+                            georreferenciados
                         </div>
                     </div>
                     <div className="flex items-center gap-3">

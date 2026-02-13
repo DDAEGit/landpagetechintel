@@ -6,22 +6,22 @@ export function HowItWorks() {
         {
             icon: Columns4,
             title: "Imigração Ilegal e Contrabando",
-            description: "Aumentar a capacidade de resposta a imigração ilegal e o contrabando nas regiões fronteiriças",
+            description: "Aumento da capacidade de resposta à imigração ilegal e ao contrabando nas regiões fronteiriças",
         },
         {
             icon: MapPin,
-            title: "Otimização de patrulhas",
-            description: "Aumente a eficácia das patrulhas ao priorizar ameaças reais detetadas por satélite.",
+            title: "Optimização de Patrulhas",
+            description: "Aumento da eficácia das patrulhas ao priorizar ameaças reais detectadas por satélite",
         },
         {
             icon: Ban,
-            title: "Pontos de Acesso Ilegal",
-            description: "Mapeamento e monitoramento de pontos e vias de acessos ilegais",
+            title: "Pontos de Acesso Ilegais",
+            description: "Mapeamento e monitoramento de pontos e vias de acesso ilegais",
         },
         {
             icon: Building,
             title: "Mapeamento de Infra-Estruturas",
-            description: "Georreferenciação assentamentos urbanos e infra-estruturas na zona de fronteira",
+            description: "Georreferenciação de assentamentos urbanos e infra-estruturas na zona de fronteira",
         },
         {
             icon: BrainCircuit,
@@ -31,7 +31,7 @@ export function HowItWorks() {
         {
             icon: Satellite,
             title: "Imagens de Alta-Resolução",
-            description: "Uso de imagens de satélite atualizadas e de alta-resolução",
+            description: "Uso de imagens de satélite actualizadas e de alta-resolução",
         },
     ];
 
