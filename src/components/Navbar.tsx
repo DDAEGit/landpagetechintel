@@ -55,7 +55,7 @@ export function Navbar() {
                     ))} */}
 
                     <Button variant={isScrolled ? "primary" : "secondary"} size="sm">
-                        <a href="https://gedae.ggpen.gov.ao/ferramenta-de-visualizacao/otchiva/index.php" rel="noopener noreferrer">
+                        <a href="https://gedae.ggpen.gov.ao/ferramenta-de-visualizacao/tech-intel/index.php" rel="noopener noreferrer">
                             Login
                         </a>
                     </Button>
