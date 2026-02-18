@@ -14,7 +14,7 @@ export function Community() {
                 </div>
 
                 <div className="grid md:grid-cols-3 gap-8 mb-16">
-                    {["img2.jpeg", "img4.jpeg", "img3.jpeg"].map((src, index) => (
+                    {["img1.jpeg", "img4.jpeg", "img3.jpeg"].map((src, index) => (
                         <motion.div
                             key={index}
                             initial={{

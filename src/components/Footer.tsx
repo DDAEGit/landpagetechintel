@@ -66,6 +66,7 @@ export function Footer() {
                     </div> */}
 
                     <div>
+                        <p className="ms-4 font-mono text-blue-300">Powered By GGPEN</p>
                         {/* <h4 className="font-title font-bold text-lg mb-6">Contactos</h4>
                         <ul className="space-y-4 text-stone-400">
                             <li className="flex items-center gap-3">

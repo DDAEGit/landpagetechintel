@@ -18,7 +18,7 @@ export function Navbar() {
         >
             <div className="container mx-auto px-4 md:px-6 flex items-center justify-between">
                 <div className="flex items-center gap-2">
-                    <div className="bg-[#1a4d2e00] p-2 rounded-lg">
+                    <div className="bg-[#1a4d2e00] p-2 rounded-lg flex items-center">
                         {/* <Leaf className="w-6 h-6 text-white" /> */}
                         <div className="bg-white rounded-3xl px-2 py-1">
                             <img
@@ -29,6 +29,8 @@ export function Navbar() {
                                 // className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                             />
                         </div>
+
+                        <p className="ms-4 font-mono text-blue-300">Powered By GGPEN</p>
                     </div>
                     {/* <span className={`font-serif font-bold text-xl tracking-tight ${isScrolled ? "text-[#1a4d2e]" : "text-white"}`}>
                         Tech-Intel <span className="text-[#3d93c4]">360</span>

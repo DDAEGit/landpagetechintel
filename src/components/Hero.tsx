@@ -7,7 +7,7 @@ export function Hero() {
         <section className="relative h-screen min-h-[800px] flex items-center overflow-hidden">
             {/* Background Image - Mangrove Forest */}
             <div className="absolute inset-0 z-0">
-                <img src="img1.jpeg" alt="" className="w-full h-full object-cover" />
+                <img src="img2.jpeg" alt="" className="w-full h-full object-cover" />
 
                 {/* Gradient Overlay for readability */}
                 <div className="absolute inset-0 bg-gradient-to-r from-[#143c63]/90 via-[#143c63]/60 to-transparent" />
