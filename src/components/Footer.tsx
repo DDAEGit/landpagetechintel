@@ -65,8 +65,11 @@ export function Footer() {
                         </ul>
                     </div> */}
 
-                    <div>
-                        <p className="ms-4 font-mono text-blue-300">Powered By GGPEN</p>
+                    <div className="flex items-center">
+                        <p className="ms-4 font-mono text-blue-300">Powered By </p>
+                        <div className="bg-white rounded-3xl px-3 py-1 ms-3">
+                            <img src={"/GGPEN_LOGO-scaled.png"} alt="" width={70} height={"auto"} />
+                        </div>
                         {/* <h4 className="font-title font-bold text-lg mb-6">Contactos</h4>
                         <ul className="space-y-4 text-stone-400">
                             <li className="flex items-center gap-3">

@@ -30,7 +30,11 @@ export function Navbar() {
                             />
                         </div>
 
-                        <p className="ms-4 font-mono text-blue-300">Powered By GGPEN</p>
+                        <p className="ms-4 mr-2 font-mono text-blue-300">Powered By </p>
+
+                        <div className="bg-white rounded-3xl px-3 py-1">
+                            <img src={"/GGPEN_LOGO-scaled.png"} alt="" width={70} height={"auto"} />
+                        </div>
                     </div>
                     {/* <span className={`font-serif font-bold text-xl tracking-tight ${isScrolled ? "text-[#1a4d2e]" : "text-white"}`}>
                         Tech-Intel <span className="text-[#3d93c4]">360</span>
