@@ -58,7 +58,7 @@ export function Hero() {
                             <Button size="lg" className="group">
                                 <a
                                     className="flex items-center"
-                                    href="https://gedae.ggpen.gov.ao/ferramenta-de-visualizacao/tech-intel/index.php"
+                                    href="https://gedae.ggpen.gov.ao/tech-intel"
                                     rel="noopener noreferrer"
                                 >
                                     Explorar
